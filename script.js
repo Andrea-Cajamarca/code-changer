@@ -23,3 +23,15 @@ function endingNumber(code) {
 function capitalize(s) {
     return s[0].toUpperCase() + s.slice(1);
 }
+
+function addOne(code) {
+    for (i= 0; i <= code.length; i++) {
+        var newString= "";
+        newString = code.length + 1;
+        parseInt(code, numbers) + 1;
+    }
+}
+
+console.log(endingNumber("Xahp6JLf"));
+
+//parseInt(code, numbers) + 1
